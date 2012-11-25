@@ -1,5 +1,4 @@
-how to use:
----
+#How to use:
 
     import tmdb
 
